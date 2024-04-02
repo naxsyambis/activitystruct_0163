@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "activitystruct_0163", "acti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struktur di dalam struktur", "struktur di dalam struktur\struktur di dalam struktur.vcxproj", "{60C69272-B918-4821-8FDA-E2C129E59179}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kasus dimana nama bisa jadi dua kalimat", "kasus dimana nama bisa jadi dua kalimat\kasus dimana nama bisa jadi dua kalimat.vcxproj", "{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{60C69272-B918-4821-8FDA-E2C129E59179}.Release|x64.Build.0 = Release|x64
 		{60C69272-B918-4821-8FDA-E2C129E59179}.Release|x86.ActiveCfg = Release|Win32
 		{60C69272-B918-4821-8FDA-E2C129E59179}.Release|x86.Build.0 = Release|Win32
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Debug|x64.ActiveCfg = Debug|x64
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Debug|x64.Build.0 = Debug|x64
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Debug|x86.ActiveCfg = Debug|Win32
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Debug|x86.Build.0 = Debug|Win32
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Release|x64.ActiveCfg = Release|x64
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Release|x64.Build.0 = Release|x64
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Release|x86.ActiveCfg = Release|Win32
+		{07E5FC0F-DC0D-4DFF-AAA1-7A98C2AE243D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
